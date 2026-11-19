@@ -18,6 +18,6 @@ Your unpredictable ambivert here who's basically your average person who still t
 • Overthinking
 
 # Midterm LabTask 1 Java Matrix
-https://github.com/dealalerryite102/Some_random_goober28/blob/main/Matrix%20Java_20261118_194419_0000.pdf
+[Matrix Java Document](Matrix%20Java_20261118_194419_0000.pdf)
 
-https://github.com/dealalerryite102/Some_random_goober28/blob/main/Java%20Matrix%20Code.pdf
+[Java Matrix Code](Java%20Matrix%20Code.pdf)
